@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WheelPicker</string>
+    <array name="provinces">
+        <item>បន្ទាយមានជ័យ</item>
+        <item>តាកែវ</item>
+        <item>ស្វាយរៀង</item>
+        <item>ស្ទឹងត្រែង</item>
+        <item>សៀមរាប</item>
+        <item>រតនគីរី</item>
+        <item>ព្រៃវែង</item>
+        <item>ពោធិ៍សាត់</item>
+        <item>ព្រះវិហារ</item>
+        <item>ក្រុង​ព្រះសីហន</item>
+        <item>ភ្នំពេញ</item>
+        <item>ប៉ៃលិន</item>
+        <item>ឧត្ដរមានជ័យ</item>
+        <item>មណ្ឌលគីរី</item>
+        <item>ក្រចេះ</item>
+        <item>កែប</item>
+        <item>កណ្ដាល</item>
+        <item>កោះកុង</item>
+        <item>កំពត</item>
+        <item>កំពង់ស្ពឺ</item>
+        <item>កំពង់ឆ្នាំង</item>
+        <item>បាត់ដំបង</item>
+        <item>កំពង់ចាម</item>
+    </array>
+</resources>
